@@ -23,6 +23,9 @@ class ViewController: UIViewController {
                 print("This is a Git tutorial")
     }
     
-
+    @IBAction func console(_ sender: Any) {
+           print("TText")
+    }
+    
 }
 
