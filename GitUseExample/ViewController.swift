@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         print("This is a Git tutorial")
     }
 
+    @IBAction func hallo(_ sender: Any) {
+                print("This is a Git tutorial")
+    }
     
 
 }
